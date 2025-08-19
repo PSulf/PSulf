@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./banner.svg" alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
+  <img src="https://raw.githubusercontent.com/PSulf/PSulf/main/banner.svg?v=1"
+       alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
 </p>
 
 
@@ -26,7 +27,6 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 **Domain Expertise:** Aquatic biogeochemistry, isotopic analysis (ICP-OES, GC/IRMS, HPLC), environmental modeling  
 **Also:** Bioinformatics (QIIME2, RNA-seq), statistics, teaching & mentorship  
 
-## 🛠 Skills & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
