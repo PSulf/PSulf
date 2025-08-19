@@ -6,11 +6,6 @@
   />
 </p>
 
-<p align="center">
-  <!-- Profile photo -->
-  <img src="https://avatars.githubusercontent.com/PSulf" alt="Khoren Avetisyan" width="180" style="border-radius:50%;" />
-</p>
-
 # Hi, I'm Khoren 👋
 
 **Environmental Biogeochemist | Data & Machine Learning Scientist | Ph.D. in Earth & Environmental Science**  
