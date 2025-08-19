@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.svg" alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
+  <img src="https://raw.githubusercontent.com/PSulf/PSulf/main/banner.svg" alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
 </p>
+
 
 # Hi, I'm Khoren 👋
 
@@ -25,14 +26,53 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 **Domain Expertise:** Aquatic biogeochemistry, isotopic analysis (ICP-OES, GC/IRMS, HPLC), environmental modeling  
 **Also:** Bioinformatics (QIIME2, RNA-seq), statistics, teaching & mentorship  
 
-### Tech Stack Badges
+## 🛠 Skills & Tools
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+
+### Machine Learning & Model Evaluation
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5F0C?logo=xgboost&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-555555)
+![SVM](https://img.shields.io/badge/SVM-555555)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-555555)
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation-555555)
+![Pipelines](https://img.shields.io/badge/ML%20Pipelines-555555)
+
+### Data Wrangling & Analytics
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-555555)
+![Dask](https://img.shields.io/badge/Dask-FDB515?logo=dask&logoColor=black)
+![PyArrow](https://img.shields.io/badge/PyArrow-017ACC)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?logo=plotly&logoColor=white)
+
+### Reproducibility & Workflow
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![ArcGIS/QGIS](https://img.shields.io/badge/ArcGIS%2FQGIS-2E8B57)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+### Data & Storage
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![CSV/Parquet](https://img.shields.io/badge/CSV%20%2F%20Parquet-555555)
+
+### Domain & Extras
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2E8B57)
+![QGIS](https://img.shields.io/badge/QGIS-3A8E3A)
+
 
 ---
 
