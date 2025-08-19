@@ -75,7 +75,6 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E8B57)
 
 ## 🧬 Bioinformatics — Tech Skills & Tools
-> Logos shown where available; others use neutral badges.
 
 **Workflows & Reproducibility**  
 ![Nextflow](https://img.shields.io/badge/Nextflow-23B5AF?logo=nextflow&logoColor=white)
