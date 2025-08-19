@@ -1,9 +1,5 @@
 <p align="center">
-  <!-- Viridis banner -->
-  <img
-    src="https://img.shields.io/badge/Khoren%20Avetisyan-Environmental%20Data%20Scientist-4CAF50?style=for-the-badge&logoColor=white&color=440154&labelColor=21908C"
-    alt="Khoren Avetisyan — Environmental Data Scientist"
-  />
+  <img src="banner.svg" alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
 </p>
 
 # Hi, I'm Khoren 👋
