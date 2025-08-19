@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PSulf/PSulf/main/banner.png?v=1"
-       alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
+  <!-- Simple Viridis-style badge banner -->
+  <img
+    src="https://img.shields.io/badge/Khoren%20Avetisyan-Environmental%20Data%20Scientist-4CAF50?style=for-the-badge&logoColor=white&color=440154&labelColor=21908C"
+    alt="Khoren Avetisyan — Environmental Data Scientist"
+  />
 </p>
-
-
-
 
 # Hi, I'm Khoren 👋
 
@@ -73,8 +73,46 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 
 ### Domain & Extras
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E8B57)
-![QGIS](https://img.shields.io/badge/QGIS-3A8E3A)
 
+## 🧬 Bioinformatics — Tech Skills & Tools
+> Logos shown where available; others use neutral badges.
+
+**Workflows & Reproducibility**  
+![Nextflow](https://img.shields.io/badge/Nextflow-23B5AF?logo=nextflow&logoColor=white)
+![Conda/bioconda](https://img.shields.io/badge/bioconda-44A833?logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**QC, Trimming & Pre-processing**  
+![FastQC](https://img.shields.io/badge/FastQC-555)
+![Cutadapt](https://img.shields.io/badge/Cutadapt-555)
+![Trimmomatic](https://img.shields.io/badge/Trimmomatic-555)
+
+**Alignment & Assembly**  
+![BWA](https://img.shields.io/badge/BWA-555)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-555)
+![HISAT2](https://img.shields.io/badge/HISAT2-555)
+![STAR](https://img.shields.io/badge/STAR-555)
+![Minimap2](https://img.shields.io/badge/Minimap2-555)
+![SPAdes](https://img.shields.io/badge/SPAdes-555)
+
+**Post-processing & Variant Tools**  
+![SAMtools](https://img.shields.io/badge/SAMtools-555)
+![bcftools](https://img.shields.io/badge/bcftools-555)
+![GATK](https://img.shields.io/badge/GATK-555)
+
+**RNA-seq & Differential Expression (R ecosystem)**  
+![Bioconductor](https://img.shields.io/badge/Bioconductor-3A95D3?logo=bioconductor&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-276DC3?logo=r&logoColor=white)
+![edgeR](https://img.shields.io/badge/edgeR-276DC3?logo=r&logoColor=white)
+![limma](https://img.shields.io/badge/limma-276DC3?logo=r&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-276DC3?logo=r&logoColor=white)
+
+**Microbiome / Metagenomics**  
+![QIIME2](https://img.shields.io/badge/QIIME2-555)
+![Kraken2](https://img.shields.io/badge/Kraken2-555)
+![Bracken](https://img.shields.io/badge/Bracken-555)
+![MetaPhlAn](https://img.shields.io/badge/MetaPhlAn-555)
+![HUMAnN](https://img.shields.io/badge/HUMAnN-555)
 
 ---
 
