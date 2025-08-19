@@ -1,24 +1,29 @@
 <p align="center">
-  <!-- Quick Viridis banner (shields) -->
+  <!-- Viridis banner -->
   <img
     src="https://img.shields.io/badge/Khoren%20Avetisyan-Environmental%20Data%20Scientist-4CAF50?style=for-the-badge&logoColor=white&color=440154&labelColor=21908C"
     alt="Khoren Avetisyan — Environmental Data Scientist"
   />
 </p>
 
-# Hi, I'm Khoren Avetisyan 👋
+<p align="center">
+  <!-- Profile photo -->
+  <img src="https://avatars.githubusercontent.com/PSulf" alt="Khoren Avetisyan" width="180" style="border-radius:50%;" />
+</p>
 
-**Environmental Biogeochemist | Data & Machine Learning Scientist | Ph.D. in Earth & Environmental Science**
+# Hi, I'm Khoren 👋
 
-Postdoctoral Fellow @ University of Toronto Scarborough
+**Environmental Biogeochemist | Data & Machine Learning Scientist | Ph.D. in Earth & Environmental Science**  
+
+Postdoctoral Fellow @ University of Toronto Scarborough  
 
 ---
 
 ## 🚀 About Me
-- 🌊 Aquatic biogeochemistry & nutrient cycling (P, N, S, C dynamics)
-- 📊 Applying **data science & ML & Bioinformatics** to environmental datasets
-- 🎓 Ph.D. (Ben-Gurion University)
-- 🌱 Passionate about data-driven solutions for water quality & sustainability
+- 🌊 Aquatic biogeochemistry & nutrient cycling (P, N, S, C dynamics)  
+- 📊 Applying **data science, ML & bioinformatics** to environmental datasets  
+- 🎓 Ph.D. in Earth & Environmental Science (Ben-Gurion University, Israel)  
+- 🌱 Passionate about data-driven solutions for water quality & sustainability  
 
 ---
 
@@ -27,9 +32,9 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 **Data Science & ML:** Data wrangling, visualization, regression/classification, clustering, model evaluation  
 **Software & Platforms:** Git/GitHub, Jupyter, ArcGIS/QGIS, PHREEQC, OriginPro  
 **Domain Expertise:** Aquatic biogeochemistry, isotopic analysis (ICP-OES, GC/IRMS, HPLC), environmental modeling  
-**Also:** Bioinformatics (QIIME2, RNA-seq), statistics, teaching & mentorship
+**Also:** Bioinformatics (QIIME2, RNA-seq), statistics, teaching & mentorship  
 
-### Tech stack badges
+### Tech Stack Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -41,35 +46,34 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 ---
 
 ## 🎓 Education
-- **Data Science Certificate** – Data Science Institute, University of Toronto (2025)
-- **Ph.D.** – Earth & Environmental Science, Ben-Gurion University, Israel (2020)
-- **M.Sc.** – Earth & Environmental Science, Ben-Gurion University, Israel (2016)
-- **M.Sc.** – Agriculture & Biotechnology, BIDR, Israel (2010)
-- **B.Sc.** – Ecology & Environmental Sciences, Yerevan State University, Armenia (2006)
+- **Data Science Certificate** – Data Science Institute, University of Toronto (2025)  
+- **Ph.D.** – Earth & Environmental Science, Ben-Gurion University, Israel (2020)  
+- **M.Sc.** – Earth & Environmental Science, Ben-Gurion University, Israel (2016)  
+- **M.Sc.** – Agriculture & Biotechnology, BIDR, Israel (2010)  
+- **B.Sc.** – Ecology & Environmental Sciences, Yerevan State University, Armenia (2006)  
 
 ---
 
 ## 📜 Certifications & Workshops
-- Compute Ontario (2025): Data Visualization in Bioinformatics (R); Bioinformatics: RNA-seq; Long-read Sequencing; Pathway Enrichment
-- Python Developer Certificate – Sololearn (2024)
-- MITACS (2025): Research & Development, Leadership, Communication, Networking
-- Microbial Genomics Workshop (UTSC, 2024); Bioinformatics Tools & Tricks (SickKids, 2023)
+- Compute Ontario (2025): Data Visualization in Bioinformatics (R); RNA-seq; Long-read Sequencing; Pathway Enrichment  
+- Python Developer Certificate – Sololearn (2024)  
+- MITACS (2025): Research & Development, Leadership, Communication, Networking  
+- Microbial Genomics Workshop (UTSC, 2024); Bioinformatics Tools & Tricks (SickKids, 2023)  
 
 ---
 
 ## 📂 Selected Projects
-- **Heart Disease ML Prediction** – Random Forest, Gradient Boosting, XGBoost
-- **Phosphorus Cycling in Hamilton Harbour** – Integrated geochemical & microbial analysis
-- **Bioreactor Field (Lake Erie watershed)** – Nutrient-removal monitoring near greenhouse ponds
+- **Heart Disease ML Prediction** – Random Forest, Gradient Boosting, XGBoost  
+- **Phosphorus Cycling in Hamilton Harbour** – Integrated geochemical & microbial analysis  
+- **Bioreactor Field (Lake Erie watershed)** – Nutrient-removal monitoring near greenhouse ponds  
 
 ---
 
 ## 📊 GitHub Stats
 ![Khoren's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSulf&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSulf&layout=compact)
 
 ---
 
 ## 📫 Contact
 ✉️ [avetisyankhoren@yahoo.com](mailto:avetisyankhoren@yahoo.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/khoren-avetisyan-71322224a/) · [Google Scholar](https://scholar.google.ca/citations?user=ZyE1PK8AAAAJ&hl=en)
+🔗 [LinkedIn](https://www.linkedin.com/in/khoren-avetisyan-71322224a/) · [Google Scholar](https://scholar.google.ca/citations?user=ZyE1PK8AAAAJ&hl=en)  
