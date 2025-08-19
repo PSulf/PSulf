@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PSulf/PSulf/main/banner.svg?v=1"
+  <img src="https://raw.githubusercontent.com/PSulf/PSulf/main/banner.png?v=1"
        alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
 </p>
+
 
 
 
