@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PSulf/PSulf/main/banner.svg" alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
+  <img src="./banner.svg" alt="Khoren Avetisyan — Environmental Data Scientist" width="100%">
 </p>
 
 
