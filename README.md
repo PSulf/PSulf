@@ -1,4 +1,4 @@
-<img width="1125" height="694" alt="image" src="https://github.com/user-attachments/assets/f05b5e38-e8e7-4fa7-b0f6-578c60d473f9" />
+<img width="1400" height="380" alt="image" src="https://github.com/user-attachments/assets/f588cc85-5234-4c68-9714-535e057e3b49" />
 
 
 # Hi, I'm Khoren 👋
@@ -10,7 +10,7 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 ---
 
 ## 🚀 About Me
-- 🌊 Aquatic biogeochemistry & nutrient cycling (P, N, S, C dynamics)  
+- 🌊 Aquatic biogeochemistry & elemental cycling (P, N, S, C dynamics)  
 - 📊 Applying **data science, ML & bioinformatics** to environmental datasets  
 - 🎓 Ph.D. in Earth & Environmental Science (Ben-Gurion University, Israel)  
 - 🌱 Passionate about data-driven solutions for water quality & sustainability  
@@ -21,7 +21,7 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 **Programming & Analytics:** Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, scikit-learn), R, SQL (SQLite, MySQL)  
 **Data Science & ML:** Data wrangling, visualization, regression/classification, clustering, model evaluation  
 **Software & Platforms:** Git/GitHub, Jupyter, ArcGIS/QGIS, PHREEQC, OriginPro  
-**Domain Expertise:** Aquatic biogeochemistry, isotopic analysis (ICP-OES, GC/IRMS, HPLC), environmental modeling  
+**Domain Expertise:** Aquatic biogeochemistry, isotopic analysis (ICP-OES, GC/IRMS, HPLC, IC), environmental modeling  
 **Also:** Bioinformatics (QIIME2, RNA-seq), statistics, teaching & mentorship  
 
 
@@ -82,31 +82,11 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 ![Trimmomatic](https://img.shields.io/badge/Trimmomatic-555)
 
 **Alignment & Assembly**  
-![BWA](https://img.shields.io/badge/BWA-555)
 ![Bowtie2](https://img.shields.io/badge/Bowtie2-555)
 ![HISAT2](https://img.shields.io/badge/HISAT2-555)
-![STAR](https://img.shields.io/badge/STAR-555)
-![Minimap2](https://img.shields.io/badge/Minimap2-555)
-![SPAdes](https://img.shields.io/badge/SPAdes-555)
-
-**Post-processing & Variant Tools**  
-![SAMtools](https://img.shields.io/badge/SAMtools-555)
-![bcftools](https://img.shields.io/badge/bcftools-555)
-![GATK](https://img.shields.io/badge/GATK-555)
-
-**RNA-seq & Differential Expression (R ecosystem)**  
-![Bioconductor](https://img.shields.io/badge/Bioconductor-3A95D3?logo=bioconductor&logoColor=white)
-![DESeq2](https://img.shields.io/badge/DESeq2-276DC3?logo=r&logoColor=white)
-![edgeR](https://img.shields.io/badge/edgeR-276DC3?logo=r&logoColor=white)
-![limma](https://img.shields.io/badge/limma-276DC3?logo=r&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-276DC3?logo=r&logoColor=white)
 
 **Microbiome / Metagenomics**  
 ![QIIME2](https://img.shields.io/badge/QIIME2-555)
-![Kraken2](https://img.shields.io/badge/Kraken2-555)
-![Bracken](https://img.shields.io/badge/Bracken-555)
-![MetaPhlAn](https://img.shields.io/badge/MetaPhlAn-555)
-![HUMAnN](https://img.shields.io/badge/HUMAnN-555)
 
 ---
 
@@ -131,6 +111,7 @@ Postdoctoral Fellow @ University of Toronto Scarborough
 - **Heart Disease ML Prediction** – Random Forest, Gradient Boosting, XGBoost  
 - **Phosphorus Cycling in Hamilton Harbour** – Integrated geochemical & microbial analysis  
 - **Bioreactor Field (Lake Erie watershed)** – Nutrient-removal monitoring near greenhouse ponds  
+- **Methane dynamics in surface waters of Honey Harbour** – Biogeochemistry 
 
 ---
 
