@@ -5,8 +5,6 @@
     alt="Khoren Avetisyan — Environmental Data Scientist"
   />
 </p>
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/35e6a15e-b273-45f7-8c8c-8a16d044e76b" />
-
 
 # Hi, I'm Khoren 👋
 
