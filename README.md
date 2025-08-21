@@ -1,11 +1,3 @@
-<p align="center">
-  <!-- Simple Viridis-style badge banner -->
-  <img
-    src="https://img.shields.io/badge/Khoren%20Avetisyan-Environmental%20Data%20Scientist-4CAF50?style=for-the-badge&logoColor=white&color=440154&labelColor=21908C"
-    alt="Khoren Avetisyan — Environmental Data Scientist"
-  />
-</p>
-
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d37fd5b9-5e96-4f30-aa10-a51ce3fdd8ea" />
 
 
