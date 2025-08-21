@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d37fd5b9-5e96-4f30-aa10-a51ce3fdd8ea" />
+<img width="1125" height="694" alt="image" src="https://github.com/user-attachments/assets/f05b5e38-e8e7-4fa7-b0f6-578c60d473f9" />
 
 
 # Hi, I'm Khoren 👋
