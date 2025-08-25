@@ -1,6 +1,3 @@
-<img width="1400" height="360" alt="image" src="https://github.com/user-attachments/assets/15a229c8-1a3e-4304-8265-cf81596c508a" />
-
-
 # Hi, I'm Khoren 👋
 
 **Environmental Biogeochemist | Data & Machine Learning Scientist | Ph.D. in Earth & Environmental Science**  
